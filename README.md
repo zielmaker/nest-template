@@ -8,5 +8,6 @@
 - ✅ Importing es modules from npm
 - ✅ Eslint
 - ✅ Prettier
-- Jest
+- ✅ Jest
 - SWC
+- ✅ Visual Studio Code debugger

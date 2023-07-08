@@ -9,5 +9,6 @@
 - ✅ Eslint
 - ✅ Prettier
 - ✅ Jest
-- SWC
+- ✅ SWC
 - ✅ Visual Studio Code debugger
+- ✅ Source maps enabled

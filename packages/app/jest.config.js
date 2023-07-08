@@ -3,7 +3,7 @@ export default {
   rootDir: 'src',
   testRegex: '.*\\.spec\\.ts$',
   transform: {
-    '^.+\\.(t|j)s$': ['ts-jest', { useESM: true }],
+    '^.+\\.(t|j)s$': '@swc/jest',
   },
   extensionsToTreatAsEsm: ['.ts'],
   moduleNameMapper: {
